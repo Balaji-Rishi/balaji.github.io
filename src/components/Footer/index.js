@@ -100,7 +100,7 @@ function Footer() {
       transition={{ duration: 0.8 }}
     >
       <FooterWrapper>
-        <Logo>Balaji Saker</Logo>
+        <Logo>Balaji Sekar</Logo>
 
         <Nav>
           {["#about", "#skills", "#experience", "#projects", "#education"].map((link, index) => (
@@ -166,7 +166,7 @@ function Footer() {
         </SocialMediaIcons>
 
         <Copyright>
-          &copy; 2025 Balaji Saker. All rights reserved.
+          &copy; 2025 Balaji Sekar. All rights reserved.
         </Copyright>
 
       </FooterWrapper>
