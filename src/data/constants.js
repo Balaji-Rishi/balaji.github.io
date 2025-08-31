@@ -18,7 +18,7 @@ export const Bio = {
   hackerrank: "https://www.hackerrank.com/profile/balajikrish268",
   leetcode: "https://leetcode.com/u/Balaji_Sekar/",
   codechef: "https://www.codechef.com/users/swarm_queen_04",
-  cridly: "https://www.credly.com/users/balaji-saker",
+  cridly: "https://www.credly.com/users/balaji-sekar-rishi",
 };
 
 export const skills = [

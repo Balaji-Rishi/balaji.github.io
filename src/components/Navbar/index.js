@@ -34,7 +34,7 @@ const Navbar = () => {
             <div style={{ color: "#854CE6", fontWeight: "bold", fontSize: "32px", }}>&lt;</div>
             Balaji
             <div style={{ color: "#854CE6", fontWeight: "bold", margin: "0 4px", }}>/</div>
-            Saker
+            Sekar
             <div style={{ color: "#854CE6", fontWeight: "bold", fontSize: "32px", }}>&gt;</div>
 
           </a>
